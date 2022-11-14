@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\bin\Debug\Rentadora.exe.config
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\bin\Debug\Rentadora.exe
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\bin\Debug\Rentadora.pdb
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\obj\Debug\Rentadora.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\obj\Debug\Rentadora.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\obj\Debug\Rentadora.exe
+C:\Users\Alumno\source\repos\Rentadora\Rentadora\obj\Debug\Rentadora.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\bin\Debug\Rentadora.exe.config
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\bin\Debug\Rentadora.exe
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\bin\Debug\Rentadora.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\obj\Debug\Rentadora.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\obj\Debug\Rentadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\obj\Debug\Rentadora.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\obj\Debug\Rentadora.exe
+C:\Users\Mateo\Desktop\Projectos Visual\Rentadora\Rentadora\obj\Debug\Rentadora.pdb
